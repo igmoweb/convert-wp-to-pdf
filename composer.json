@@ -1,0 +1,13 @@
+{
+    "name": "ignacio/to-pdf",
+    "authors": [
+        {
+            "name": "Ignacio Cruz",
+            "email": "igmoweb@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "curl/curl": "^2.3"
+    }
+}
